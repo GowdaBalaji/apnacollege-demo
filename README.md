@@ -1,4 +1,4 @@
-# apnacollege-demo
+cd# apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Balaji Gowda
+Author - Balaji Shivappa Gowda
